@@ -1,0 +1,6 @@
+Hidden Markov mark-recapture model to implement the survival analysis
+
+Folder /code contains code to format data and run the model.
+
+Folder /data contains tag meta-data and satellite tag track data. Acoustic tag detection data needed to run the model can be downloaded from:
+https://purl.stanford.edu/kr436rw2508 (blocklab_pnas_geodata_wgsl_detects_2025mar21.csv).
